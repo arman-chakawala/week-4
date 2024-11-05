@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "creating a local api with express",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Arman",
+  "license": "ISC"
+}
